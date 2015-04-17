@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SocialTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">FACEBOOK_APP_ID</string>
+    <string name="action_sign_in_short">Sign in VK</string>
+
+</resources>
